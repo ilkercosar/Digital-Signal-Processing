@@ -1,0 +1,18 @@
+English
+Spectral aware filter can be used to eliminate white tones in an image. 
+White color is a color where all color components are at their maximum, so filtering white tones can enhance the contrast of an image and help make details more visible. 
+Spectral aware filter takes into account the spectral characteristics of the image and analyzes the frequency components of the image before applying filtering. 
+The spectral characteristics of white tones contain low-power components at high frequencies. 
+Therefore, filtering these components can lead to the filtering of white tones. 
+
+Russian
+Spektralno-osvedomlennyj fil'tr mozhet byt' ispol'zovan dlya udaleniya belykh tonov na izobrazhenii. 
+Belyj cvet yavlyaetsya cvetom, v kotorom vse komponenty cveta maksimal'ny, poetomu filtratsiya belykh tonov mozhet povysit' kontrastnost' izobrazheniya i pomoch' sdelat' detali bolee zamechatel'nymi. 
+Spektralno-osvedomlennyj fil'tr prinimaet v raschet spektral'nye kharakteristiki izobrazheniya i analiziruet chastotnye komponenty izobrazheniya pered primeneniem fil'trovaniya. 
+Spektral'nye kharakteristiki belykh tonov soderzhat komponenty s nizkoj moshchnost'yu pri vysokikh chastotakh. 
+Posledovatel'no, filtratsiya etikh komponentov mozhet privesti k filtratsii belykh tonov.
+
+Turkish
+Spectral aware filtresi beyaz tonları ayıklamak için kullanılmaktadır. 
+FFT dönüşümü ile beyaz tonları analiz ederek ayıklama işlemi yapılır.
+Bu sayede görsel daha detaylı ve görünebilir olmaktadır.
