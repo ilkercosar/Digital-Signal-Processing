@@ -1,0 +1,4 @@
+English
+The median filter is a non-linear digital filtering technique, often used to remove noise from an image or signal. 
+Such noise reduction is a typical pre-processing step to improve the results of later processing (for example, edge detection on an image). 
+Median filtering is very widely used in digital image processing because, under certain conditions, it preserves edges while removing noise (but see the discussion below), also having applications in signal processing.
